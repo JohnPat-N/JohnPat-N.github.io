@@ -3,7 +3,7 @@ html, body, main, section {
   padding: 0;
   box-sizing: border-box;
   width: 100%;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   overflow-x: hidden;
 }
 
@@ -112,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*SECTION HEADERS*/
 #peopleHeader {
-  background-image: url("../img/code.jpg");
+  background-image: url("../img/bolo.jpg");
 }
 
 
@@ -121,11 +121,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #russianHeader {
-  background-image: url("../img/hero.jpg");
+  background-image: url("../img/orch.jpg");
 }
 
 #contactHeader {
-  background-image: url("../img/arcade.jpg");
+  background-image: url("../img/hero.jpg");
 }
 
 /*HERO SECTION*/
@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
   font-size: 2em;
   text-align: center;
-  background-color: grey;
+  background-color: black;
   color: white;
   padding: 0 2vw;
 }
